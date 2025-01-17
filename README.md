@@ -1,7 +1,7 @@
 # Funmadex-Cookies-Sales-Report-for-2023-2024.
 This analysis provides a detailed overview of the sales performance of Funmadex cookies across different regions and time periods.
 
-This analysis provides a comprehensive overview of Funmadex Cookies' sales performance from 2023 to 2024. By examining key metrics such as total profit, units sold, monthly profit trends, regional performance, and product-specific insights, the analysis aims to identify significant patterns and areas for improvement. The findings offer valuable insights into market trends and consumer preferences, helping stakeholders make informed decisions to enhance business strategies and maximize profitability. Through targeted recommendations, the analysis seeks to optimize sales performance and drive future growth for Funmadex Cookies.
+This analysis provides a comprehensive overview of Funmadex Cookies' sales performance from 2023 to 2024. By examining key metrics such as total profit, units sold, monthly profit trends, regional performance, and product-specific insights, the analysis aims to identify significant patterns and areas for improvement. The findings offer valuable insights into market trends and consumer preferences, helping stakeholders make informed decisions to enhance business strategies and maximize profitability. Through targeted recommendations, the analysis seeks to optimize sales performance and drive future growth for Funmadex Cookies. Microsoft Excel was used to carry out this analysis and creating an interactive dashboard. 
 
 MAJOR FINDINGS
 1. Total Profit and Units Sold: The total profit generated from 2023 to 2024 was $2,763,364, with a total of 1,125,824 units sold. This indicates a strong overall sales performance.
